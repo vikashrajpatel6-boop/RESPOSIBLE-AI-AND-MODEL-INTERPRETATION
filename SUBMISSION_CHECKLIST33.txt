@@ -1,0 +1,17 @@
+FINAL SUBMISSION CHECKLIST
+[ ] Dataset source is documented.
+[ ] Dataset inspection cells ran successfully.
+[ ] Preprocessing and train/test split completed.
+[ ] Model trains successfully.
+[ ] Evaluation metrics are actual calculated values.
+[ ] Feature importance plot generated.
+[ ] SHAP global explanations generated or a real compatibility limitation documented.
+[ ] Local explanation included if SHAP works.
+[ ] Fairness checks completed where attributes are available.
+[ ] Results and limitations are honestly described.
+[ ] Mitigation recommendations are justified.
+[ ] Word report and README updated with actual findings.
+[ ] requirements.txt is included.
+[ ] Screenshots show actual outputs.
+[ ] Notebook runs from top to bottom.
+[ ] GitHub repository is accessible and contains no private data.
